@@ -7,17 +7,19 @@
 ## 📌 Τελευταίες Ανακοινώσεις
 * **7 Οκτωβρίου 2026**: Η σελίδα του μαθήματος είναι ενεργή. Εδώ θα αναρτάται το υλικό των διαλέξεων.
 * **8 Οκτωβρίου 2026**: Έγιναν ανάθεση 3 Assignments στο DataCamp 🚀.
+* **18 Οκτωβρίου 2026**: Έγινε ανάθεση 4ο  Assignment στο DataCamp 🚀.
 Ολοκληρώστε τα με σειρά προθεσμίας
   1. Introduction to SQL.                         ⚠️ μέχρι 22/10
-  2. Introduction to Relational Databases in SQL. ⚠️ μέχρι 22/10
+  2. Introduction to Relational Databases in SQL  ⚠️ μέχρι 22/10
   3. Introduction to SQL Server                   ⚠️ μέχρι 29/10
+  4. Data Analysis in Excel                       ⚠️ μέχρι 05/11
 
 
 ## 📚 Υλικό Μαθήματος
 Στη λίστα αρχείων θα βρείτε:
-* **Ebdomada_XX_....pdf** – οι διαφάνειες κάθε εβδομάδας
-* **Απαραίτητες ενέργειες.pdf** – εγγραφή στο DataCamp και οδηγός εγκατάστασης λογισμικού
-* **StockMarketDB.sql** – το script που δημιουργεί τη βάση δεδομένων του μαθήματος (άνοιγμα στο SSMS → Execute)
+* **Ebdomada_XX_....pdf** – οι διαφάνειες κάθε εβδομάδας.
+* **Απαραίτητες ενέργειες.pdf** – εγγραφή στο DataCamp και οδηγός εγκατάστασης λογισμικού.
+* **StockMarketDB.sql** – το script που δημιουργεί τη βάση δεδομένων του μαθήματος (άνοιγμα στο SSMS → Execute).
 * **StockMarketDB_Excel** - τα δεδομένα της βάσης σε excel file.
 
 
