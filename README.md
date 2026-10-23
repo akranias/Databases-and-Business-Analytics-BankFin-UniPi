@@ -8,12 +8,15 @@
 * **7 Οκτωβρίου 2026**: Η σελίδα του μαθήματος είναι ενεργή. Εδώ θα αναρτάται το υλικό των διαλέξεων.
 * **8 Οκτωβρίου 2026**: Έγιναν ανάθεση 3 Assignments στο DataCamp 🚀.
 * **18 Οκτωβρίου 2026**: Έγινε ανάθεση 4ο  Assignment στο DataCamp 💻.
-
+* **23 Οκτωβρίου 2026**: Έγινε ανάθεση 5ο  Assignment στο DataCamp 💻.
+* 
 Ολοκληρώστε τα με σειρά προθεσμίας
-  1. Introduction to SQL.                         ⚠️ μέχρι 22/10
-  2. Introduction to Relational Databases in SQL  ⚠️ μέχρι 22/10
-  3. Introduction to SQL Server                   ⚠️ μέχρι 29/10
-  4. Data Analysis in Excel                       ⚠️ μέχρι 05/11
+1.	Introduction to SQL | Completed 
+2.	Introduction to Relational Databases in SQL | Completed
+3.	Introduction to SQL Server – ⚠️ προθεσμία 29/10
+4.	Data Analysis in Excel – ⚠️ προθεσμία 05/11
+5.	Joining Data in SQL – ⚠️ προθεσμία 12/11
+
 
 
 ## 📚 Υλικό Μαθήματος
