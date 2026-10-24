@@ -35,9 +35,11 @@
 Η ύλη του μαθήματος καλύπτεται από τις σημειώσεις.💥! 
 Για όσους θέλουν να εμβαθύνουν:
 **Βασικά συγγράμματα:**
+
 *Εύδοξος:
 1.Συστήματα Βάσεων Δεδομένων, 7η Έκδοση (	Database System Concepts 7th Edition), Korth HenrySilberschatz AbrahamSudarshan S.
-*Δωρεάν επιπλέον online επιλογές:**
+
+*Δωρεάν επιπλέον online επιλογές:
 2. Watt, A. *Database Design – 2nd Edition* (βάσεις δεδομένων, κανονικοποίηση, SQL): https://opentextbc.ca/dbdesign01/
 3. Heiss, F. *Using R for Introductory Econometrics*: https://www.urfie.net/readOnline.html
 
