@@ -13,7 +13,7 @@
 Ολοκληρώστε τα με σειρά προθεσμίας
 1.	Introduction to SQL | Completed ✅
 2.	Introduction to Relational Databases in SQL | Completed ✅
-3.	Introduction to SQL Server – ⚠️ προθεσμία 29/10
+3.	Introduction to SQL Server | Completed ✅
 4.	Data Analysis in Excel – ⚠️ προθεσμία 05/11
 5.	Joining Data in SQL – ⚠️ προθεσμία 12/11
 
