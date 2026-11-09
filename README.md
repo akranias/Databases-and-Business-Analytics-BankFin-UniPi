@@ -5,17 +5,21 @@
 
 
 ## 📢 Τελευταίες Ανακοινώσεις
-* **7 Οκτωβρίου 2026**: Η σελίδα του μαθήματος είναι ενεργή. Εδώ θα αναρτάται το υλικό των διαλέξεων.
-* **8 Οκτωβρίου 2026**: Έγιναν ανάθεση 3 Assignments στο DataCamp 🤖.
+* **07 Οκτωβρίου 2026**: Η σελίδα του μαθήματος είναι ενεργή. Εδώ θα αναρτάται το υλικό των διαλέξεων.
+* **08 Οκτωβρίου 2026**: Έγιναν ανάθεση 3 Assignments στο DataCamp 🤖.
 * **18 Οκτωβρίου 2026**: Έγινε ανάθεση 4ο  Assignment στο DataCamp 💣.
-* **23 Οκτωβρίου 2026**: Έγινε ανάθεση 5ο  Assignment στο DataCamp 💻.
+* **23 Οκτωβρίου 2026**: Έγινε ανάθεση 5ο  Assignment στο DataCamp 💥.
+* **08 Νοεμβρίου 2026**: Έγιναν ανάθεση 6ο,7ο,8ο  Assignment στο DataCamp 💻.
 
 Ολοκληρώστε τα με σειρά προθεσμίας
 1.	Introduction to SQL | Completed ✅
 2.	Introduction to Relational Databases in SQL | Completed ✅
 3.	Introduction to SQL Server | Completed ✅
-4.	Data Analysis in Excel – ⚠️ προθεσμία 05/11
+4.	Data Analysis in Excel – | Completed ✅
 5.	Joining Data in SQL – ⚠️ προθεσμία 12/11
+6.	Data Manipulation in SQL – ⚠️ προθεσμία 26/11
+7.	Database Design – ⚠️ προθεσμία 26/11
+8.	Introduction to R - ⚠️ προθεσμία 26/11
 
 
 ## 📌 Υλικό Μαθήματος
