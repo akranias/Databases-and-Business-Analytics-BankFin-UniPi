@@ -1,0 +1,45 @@
+ProductID,ProductName,Category,Gender,Brand,Color,Season,CostPrice,ListPrice
+101,Basic Tee,T-shirts,Men,Urban Olive,Burgundy,Spring/Summer,8.02,15.99
+102,Graphic Tee,T-shirts,Men,Urban Olive,Khaki,Spring/Summer,10.29,23.99
+103,Linen Tee,T-shirts,Women,Kyma,Black,Spring/Summer,5.74,13.99
+104,Oversized Tee,T-shirts,Men,Urban Olive,Navy,Spring/Summer,13.29,25.99
+105,Polo Shirt,T-shirts,Unisex,Aegean Threads,Beige,Spring/Summer,8.65,21.99
+106,Oxford Shirt,Shirts,Men,Urban Olive,Black,All Season,27.12,59.99
+107,Linen Shirt,Shirts,Men,Nordic Pine,White,All Season,27.61,62.99
+108,Denim Shirt,Shirts,Men,Urban Olive,Black,All Season,19.0,36.99
+109,Satin Blouse,Shirts,Women,Basalt,Burgundy,All Season,18.63,39.99
+110,Slim Jeans,Jeans,Men,Basalt,Olive,All Season,37.64,81.99
+111,Straight Jeans,Jeans,Women,Aegean Threads,Khaki,All Season,28.33,60.99
+112,Mom Jeans,Jeans,Women,Kyma,White,All Season,38.32,69.99
+113,Wide Leg Jeans,Jeans,Women,Kyma,Beige,All Season,18.01,44.99
+114,Chino Trousers,Trousers,Women,Nordic Pine,Black,All Season,38.36,72.99
+115,Cargo Pants,Trousers,Men,Basalt,White,All Season,18.33,38.99
+116,Tailored Trousers,Trousers,Women,Urban Olive,Blue,All Season,31.64,67.99
+117,Joggers,Trousers,Women,Basalt,White,All Season,35.14,70.99
+118,Midi Dress,Dresses,Women,Basalt,Black,Spring/Summer,26.72,56.99
+119,Maxi Dress,Dresses,Women,Aegean Threads,Khaki,Spring/Summer,31.73,81.99
+120,Shirt Dress,Dresses,Women,Aegean Threads,Blue,Spring/Summer,27.24,59.99
+121,Knit Dress,Dresses,Women,Nordic Pine,Navy,Spring/Summer,33.67,73.99
+122,Pleated Skirt,Skirts,Women,Nordic Pine,Navy,Spring/Summer,28.11,58.99
+123,Denim Skirt,Skirts,Women,Urban Olive,Burgundy,Spring/Summer,21.47,39.99
+124,Midi Skirt,Skirts,Women,Basalt,White,Spring/Summer,16.26,34.99
+125,Puffer Jacket,Jackets,Men,Urban Olive,Burgundy,Autumn/Winter,60.11,124.99
+126,Denim Jacket,Jackets,Women,Aegean Threads,White,Autumn/Winter,81.35,153.99
+127,Wool Coat,Jackets,Men,Basalt,Olive,Autumn/Winter,57.86,132.99
+128,Trench Coat,Jackets,Women,Basalt,Khaki,Autumn/Winter,79.58,162.99
+129,Bomber Jacket,Jackets,Men,Aegean Threads,Olive,Autumn/Winter,65.99,166.99
+130,Crew Sweater,Knitwear,Women,Nordic Pine,Grey,Autumn/Winter,26.63,51.99
+131,Cardigan,Knitwear,Men,Aegean Threads,Khaki,Autumn/Winter,22.28,49.99
+132,Turtleneck,Knitwear,Women,Basalt,Black,Autumn/Winter,31.71,71.99
+133,Hoodie,Knitwear,Women,Urban Olive,Grey,Autumn/Winter,24.01,43.99
+134,Leather Sneakers,Shoes,Men,Basalt,Blue,All Season,37.85,79.99
+135,Running Shoes,Shoes,Unisex,Aegean Threads,Navy,All Season,31.19,65.99
+136,Ankle Boots,Shoes,Unisex,Nordic Pine,Grey,All Season,56.39,122.99
+137,Loafers,Shoes,Women,Basalt,Red,All Season,51.66,97.99
+138,Sandals,Shoes,Men,Nordic Pine,Blue,Spring/Summer,47.14,115.99
+139,Leather Belt,Accessories,Women,Kyma,Black,All Season,7.01,17.99
+140,Wool Scarf,Accessories,Men,Nordic Pine,White,All Season,21.32,39.99
+141,Beanie,Accessories,Unisex,Basalt,Beige,All Season,8.08,18.99
+142,Tote Bag,Accessories,Men,Nordic Pine,Beige,All Season,13.93,28.99
+143,Cap,Accessories,Men,Nordic Pine,Burgundy,All Season,12.14,22.99
+144,Socks 3-Pack,Accessories,Unisex,Kyma,White,All Season,16.99,32.99
