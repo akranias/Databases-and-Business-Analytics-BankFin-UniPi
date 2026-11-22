@@ -16,7 +16,7 @@
 2.	Introduction to Relational Databases in SQL | Completed ✅
 3.	Introduction to SQL Server | Completed ✅
 4.	Data Analysis in Excel – | Completed ✅
-5.	Joining Data in SQL – ⚠️ προθεσμία 12/11
+5.	Joining Data in SQL – | Completed ✅
 6.	Data Manipulation in SQL – ⚠️ προθεσμία 26/11
 7.	Database Design – ⚠️ προθεσμία 26/11
 8.	Introduction to R - ⚠️ προθεσμία 26/11
